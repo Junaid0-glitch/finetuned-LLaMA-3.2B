@@ -94,10 +94,4 @@ dataset = dataset.map(
 ```
 
 ---
-
-## 🧪 Acknowledgements
-
-- [Unsloth](https://github.com/unslothai/unsloth)
-- [Hugging Face Transformers](https://github.com/huggingface/transformers)
-- [TRL (Training Loop)](https://github.com/huggingface/trl)
-- [FineTome Dataset](https://huggingface.co/datasets/mlabonne/FineTome-100k)
+![Screenshot 2025-06-01 213744](https://github.com/user-attachments/assets/5a5089f7-f4a6-460d-b177-da77c3532bfa)
